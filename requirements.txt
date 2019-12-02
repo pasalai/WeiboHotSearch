@@ -1,0 +1,5 @@
+snownlp
+json
+jieba
+pyecharts
+requests
