@@ -11,20 +11,20 @@
 * 注意输入数据的格式    
 * **url中的t值为每天变化的，所以我上传的肯定失效了，t值从[热搜神器](http://www.enlightent.cn/research/rank/weiboSearchRank)找**    
     
-![t值获取](https://github.com/lsc183754539/WeiboHotSearch/blob/master/t_value_get.png?raw=true)    
+![t值获取](https://github.com/lsc183754539/WeiboHotSearch/blob/master/img/t_value_get.png)    
     
 更换下面框出：    
     
-![更换到这里](https://github.com/lsc183754539/WeiboHotSearch/blob/master/t_change.jpg?raw=true)    
+![更换到这里](https://github.com/lsc183754539/WeiboHotSearch/blob/master/img/t_change.jpg)    
     
     
     
 ## 运行过程预览    
     
     
-![运行过程1](https://github.com/lsc183754539/WeiboHotSearch/blob/master/1.jpg?raw=true)    
-![运行过程2](https://github.com/lsc183754539/WeiboHotSearch/blob/master/2.jpg?raw=true)    
-![运行过程3](https://github.com/lsc183754539/WeiboHotSearch/blob/master/3.jpg?raw=true)    
+![运行过程1](https://github.com/lsc183754539/WeiboHotSearch/blob/master/img/1.jpg)    
+![运行过程2](https://github.com/lsc183754539/WeiboHotSearch/blob/master/img/2.jpg)    
+![运行过程3](https://github.com/lsc183754539/WeiboHotSearch/blob/master/img/3.jpg)    
     
     
 ## 函数组成    
