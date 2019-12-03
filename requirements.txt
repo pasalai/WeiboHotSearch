@@ -3,3 +3,4 @@ json
 jieba
 pyecharts
 requests
+numpy
