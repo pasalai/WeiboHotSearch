@@ -1,4 +1,4 @@
-# WeiboHotSearch
+# WeiboHotSearch （数据源网站改版，需账号积分，此项目已失效）
 微博热搜情绪挖掘分析可视化    
     
 项目使用Pycharm编写，python版本为python3.7    
@@ -41,3 +41,8 @@
 ├─ visualization.py    
 │  ├─ pycharts_visit()    
 │  └─ visualization()    
+    
+# 2019年12月3日更新    
+* 完善了关键词搜索分析功能
+* 添加了散点图可视化（未完成）
+* 更新了项目失效说明
