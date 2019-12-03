@@ -10,7 +10,7 @@ import urllib.parse
 
 
 def GetInfoFromDate(searchDate):
-    url = "https://www.enlightent.cn/research/top/getWeiboHotSearchDayAggs.do?date=" + searchDate + "&type=realTimeHotSearchList&t=1566711807"
+    url = "https://www.enlightent.cn/research/top/getWeiboHotSearchDayAggs.do?date=" + searchDate + "&type=realTimeHotSearchList&t=1842808514"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"}
     res = requests.get(url=url, headers=headers)
@@ -19,7 +19,7 @@ def GetInfoFromDate(searchDate):
 
 def GetInfoFromKeywords(keywords, page):
     url = "https://www.enlightent.cn/research/top/getWeiboRankSearch.do?keyword=" + urllib.parse.quote(
-        keywords) + "&from={}&t=1566711807".format(page)
+        keywords) + "&from={}&t=1842808514".format(page)
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"}
     res = requests.get(url=url, headers=headers)
